@@ -1,0 +1,786 @@
+adminhanife,,180,2462237,TWIN,true
+adminsz,add sofabed,100,17764,DAYCARE,true
+admin,The new patients reservations,1101,234405,TWIN,true
+adminrecep,,1,401,TWIN,true
+great,mus,111,5649,TWIN,true
+adminhanife,,180,2782357,TWIN,true
+adminrecep,free room,1,122,TWIN,true
+adminteam93-10,This is a test room creation by Team93,481,7885,TWIN,true
+admin,,600,2,PREMIUM_DELUXE,true
+admin,null,444,5645,TWIN,true
+admin79,this is a test room description,5000,6881,TWIN,true
+funda88team,,200,236,TWIN,true
+medunnaadmin,,295,235,TWIN,true
+adminrecep,,100,6385,DAYCARE,true
+team90admin,fqdfqf,260,154786,TWIN,true
+adminrecep,,100,96454,DAYCARE,true
+adminhanife,,180,3646086,TWIN,true
+admin,null,399,903,SUITE,true
+admin79,URGENT PATIENT,4444,8499,TWIN,true
+adminhanife,,180,3661578,TWIN,true
+admin,,650,3,PREMIUM_DELUXE,true
+team90admin,Room with TV and Fridge,150,12125,SUITE,true
+adminrecep,,100,7819,DAYCARE,true
+adminteam93-10,This is a test room creation by Team93,584,6232,TWIN,true
+adminrecep,critical,100,1010,DAYCARE,true
+team90admin,with TV,200,12794,TWIN,true
+adminrecep,,100,5478,DAYCARE,true
+adminhanife,,180,2750973,TWIN,true
+admin79,null,4000,5538,DELUXE,true
+admin_iso,Team 81 Rooms,190,3333,PREMIUM_DELUXE,true
+maryhannah,critical,100,3694,DAYCARE,true
+medunnaadmin,,167,219,TWIN,false
+medunnaadmin,,205,278,TWIN,false
+adminrecep,,100,2041,DAYCARE,true
+adminrecep,,100,2042,DAYCARE,true
+adminrecep,,100,2049,DAYCARE,true
+adminrecep,,100,225,TWIN,false
+adminaccount,Mayday,120,1864,TWIN,true
+admin79,This is a test room creation,500,456,TWIN,false
+medunnaadmin,,243,114,TWIN,false
+adminaccount,Mayday,120,1265,TWIN,true
+adminrecep,free room,100,14555,DELUXE,true
+adminrecep,critic,120,3626,DAYCARE,true
+adminrecep,,100,421,TWIN,false
+adminrecep,free room,1,56435,TWIN,true
+admin79,My first project,400,2925,SUITE,true
+admin79,critical,100,9672,DAYCARE,true
+yagmur,Cok hasta,100,4555,TWIN,true
+medunnaadmin,cok hastaya ozel,1000,1991,SUITE,true
+gulbahce,hastamiz ozel bakilmali,1,25,PREMIUM_DELUXE,true
+medunnaadmin,,220,2087,TWIN,false
+medunnaadmin,,413,1365,TWIN,false
+adminrecep,critical,101,405,TWIN,false
+medunnaadmin,,438,282,TWIN,false
+medunnaadmin,,310,296,TWIN,false
+adminrecep,,1,65464,TWIN,true
+mark,Jack,5,777,TWIN,false
+admin_iso,Team 81 Room twin,120,333,TWIN,false
+medunnaadmin,,100,2979009,TWIN,false
+gulbahce,hastamiz ozel bakilmali,1,26,PREMIUM_DELUXE,true
+medunnaadmin,,216,160,TWIN,false
+adminrecep,critical,100,4954,DAYCARE,true
+adminrecep,critical,100,3700,DAYCARE,true
+adminrecep,,1,2222,TWIN,false
+gulbahce,hastamiz ozel bakilmali,1,27,PREMIUM_DELUXE,true
+gulbahce,hastamiz ozel bakilmali,1,28,PREMIUM_DELUXE,true
+gulbahce,hastamiz ozel bakilmali,1,30,PREMIUM_DELUXE,true
+adminrecep,critical,100,4274,DAYCARE,true
+adminrecep,,70,4,DELUXE,false
+gulbahce,hastamiz ozel bakilmali,1,44,SUITE,true
+adminrecep,Sickness,555,1453,TWIN,true
+adminrecep,critical,100,5504,DAYCARE,true
+adminaccount,acil,125,24,DAYCARE,true
+adminrecep,critical,100,560,DAYCARE,true
+medunnaadmin,,149,179,TWIN,false
+admin79,critical,100,7359,DAYCARE,true
+medunnaadmin,,159,158,TWIN,false
+medunnaadmin,,125,270,TWIN,false
+yagmur,very sick,150,1213,DAYCARE,true
+team83admin,database denemesi hanife,123,1122388,TWIN,true
+admin79,critical,100,3106,DAYCARE,true
+medunnaadmin,With TV,200,426,DELUXE,false
+medunnaadmin,With TV,200,590,DELUXE,false
+medunnaadmin,With TV,200,691,DELUXE,false
+adminrecep,,100,97724,DAYCARE,true
+adminrecep,critical,100,4743,DAYCARE,true
+admin79,critical,100,4238,DAYCARE,true
+gulbahce,hastamiz ozel bakilmali,1,31,PREMIUM_DELUXE,true
+yagmur,,3000,999,DAYCARE,true
+gulbahce,hastamiz ozel bakilmali,1,32,PREMIUM_DELUXE,true
+gulbahce,hastamiz ozel bakilmali,1,45,SUITE,true
+adminaccount,Acilllll,300,1953,TWIN,true
+gulbahce,hastamiz ozel bakilmali,1,47,SUITE,true
+gulbahce,,1,40,TWIN,false
+adminsz,add sofabed,100,17769,DAYCARE,true
+gulbahce,hastamiz ozel bakilmali,1,46,SUITE,true
+gulbahce,,1,78,TWIN,false
+gulbahce,,1,88,TWIN,false
+gulbahce,hastamiz ozel bakilmali,1,38,PREMIUM_DELUXE,true
+yagmur,,150,5467,DELUXE,true
+gulbahce,hastamiz ozel bakilmali,1,48,SUITE,true
+gulbahce,hastamiz ozel bakilmali,1,15,PREMIUM_DELUXE,true
+gulbahce,hastamiz ozel bakilmali,1,16,SUITE,true
+admin79,critical,100,2794,DAYCARE,true
+adminhanife,,180,3140197,TWIN,true
+yagmur,,150,54675,DELUXE,true
+yagmur,,150,4652,DELUXE,true
+yagmur,,150,8553,DELUXE,true
+yagmur,,150,5324,DELUXE,true
+yagmur,,150,2575,DELUXE,true
+yagmur,,150,9076,DELUXE,true
+yagmur,,150,1790,DELUXE,true
+yagmur,,150,425,DELUXE,true
+yagmur,,150,3668,DELUXE,true
+adminrecep,critical,100,8802,DAYCARE,true
+adminrecep,critical,100,5898,DAYCARE,true
+medunnaadmin,string,200,210,TWIN,true
+medunnaadmin,string,20,200,TWIN,true
+medunnaadmin,No TV,150,378,TWIN,true
+medunnaadmin,No TV,150,563,TWIN,true
+admin79,ttttt,666,66,TWIN,true
+admin79,uuu,666,90,TWIN,true
+adminaccount,Acilen yatisi yapilmali,400,128,TWIN,true
+adminaccount,Acilen yatisi yapilmali,300,130,TWIN,true
+adminaccount,Acilen yatisi yapilmali,600,133,TWIN,true
+adminaccount,Acilen yatisi yapilmali,100,135,TWIN,true
+adminaccount,Acilen yatisi yapilmali,200,136,TWIN,true
+yagmur,komada, gidici,999,2002,SUITE,true
+admin79,vitamin check,233,222,PREMIUM_DELUXE,true
+adminaccount,Mayday,200,140,TWIN,true
+adminaccount,Mayday,200,149,TWIN,true
+adminaccount,Mayday,200,1159,TWIN,true
+adminaccount,Mayday,200,1300,TWIN,true
+adminaccount,Mayday,200,1400,TWIN,true
+admin79,critical,100,1823,DAYCARE,true
+admin79,,666,76,TWIN,true
+admin79,critical,100,2787,DAYCARE,true
+adminaccount,Acilllll,300,1223,TWIN,true
+yagmur,durum vahim,120,5555,TWIN,false
+yagmur,durum vahim,120,5556,TWIN,false
+yagmur,durum vahim,120,5566,TWIN,false
+yagmur,null,110,5550,TWIN,false
+admin79,critical,100,7473,DAYCARE,true
+yagmur,null,299,914,PREMIUM_DELUXE,false
+yagmur,null,299,915,PREMIUM_DELUXE,false
+yagmur,Cok hasta,100,8316,DAYCARE,true
+yagmur,Cok hasta,100,1543,DAYCARE,true
+admin79,critical,100,8170,DAYCARE,true
+maryhannah,critical,100,3137,DAYCARE,true
+admin79,,777777777,666666,TWIN,false
+admin79,This is a test room creation,500,5,TWIN,false
+admin79,This is a test room creation,500,5734,TWIN,false
+admin79,This is a test room creation,500,1157,TWIN,false
+admin79,This is a test room creation,85,5062,TWIN,false
+admin79,URGENT PATIENT,4444,7913,TWIN,true
+admin79,This is a test room creationthis is another test,25,4273,DELUXE,false
+admin79,critical,100,5250,DAYCARE,true
+admin79,This is a test room creationthis is another test,82,6043,DELUXE,false
+admin79,this is a test description,5605,2104,DELUXE,true
+admin79,this is another test,839,7876,DELUXE,false
+admin79,,88,8,TWIN,false
+adminaccount,Mayday,120,1792,TWIN,true
+adminaccount,Mayday,120,1354,TWIN,true
+admin79,critical,100,3695,DAYCARE,true
+medunnaadmin,With TV,200,350,DELUXE,false
+medunnaadmin,,386,2137,TWIN,false
+medunnaadmin,,360,199,TWIN,false
+adminrecep,,1,4234,TWIN,false
+medunnaadmin,,441,141,TWIN,false
+admin79,critical,100,8721,DAYCARE,true
+adminaccount,Mayday,1200,1990,TWIN,true
+admin79,this is a test description,707,2085,DELUXE,true
+adminaccount,Mayday,1200,1992,TWIN,true
+adminaccount,Mayday,1200,1994,TWIN,true
+adminaccount,Mayday,1200,1997,TWIN,true
+adminaccount,Mayday,1200,1999,TWIN,true
+admin79,special room,1000,6564,PREMIUM_DELUXE,true
+admin79,,87,565432,TWIN,false
+adminrecep,,1,42523,TWIN,false
+maryhannah,critical,100,6302,DAYCARE,true
+adminrecep,,100,99287,DAYCARE,true
+adminrecep,,100,49737,DAYCARE,true
+adminrecep,,100,46001,DAYCARE,true
+maryhannah,critical,100,8434,DAYCARE,true
+admin79,this is a test description,6050,7106,DELUXE,true
+maryhannah,critical,100,6045,DAYCARE,true
+adminrecep,,100,95596,DAYCARE,true
+adminrecep,,100,71197,DAYCARE,true
+maryhannah,critical,100,1152,DAYCARE,true
+maryhannah,critical,100,3627,DAYCARE,true
+maryhannah,critical,100,9762,DAYCARE,true
+admin79,My first project,400,3621,SUITE,true
+admin79,My first project,499,11235,SUITE,true
+admin79,My first project,400,3437,SUITE,true
+admin79,My first project,400,4285,SUITE,true
+maryhannah,critical,100,4767,DAYCARE,true
+admin79,this is a test description,5188,5221,DELUXE,true
+admin79,this is a test description,8570,8850,DELUXE,true
+admin79,critical,100,4172,DAYCARE,true
+admin79,this is a test description,8936,5828,DELUXE,true
+admin79,this is a test description,4388,43,DELUXE,true
+admin79,this is a test description,5344,380,DELUXE,true
+admin79,this is a test description,2886,588,DELUXE,true
+admin79,My first project,400,4061,SUITE,true
+admin79,this is a test description,587,7698,DELUXE,true
+admin79,this is a test description,587,7690,DELUXE,true
+admin79,this is a test description,6003,5546,DELUXE,true
+admin79,My first project,400,3929,SUITE,true
+admin79,this is a test description,6409,6674,DELUXE,true
+admin79,this is a test description,5214,5825,DELUXE,true
+admin79,this is a test description,8086,6020,DELUXE,true
+admin79,this is a test description,8859,6147,DELUXE,true
+adminrecep,,100,42310,DAYCARE,true
+maryhannah,critical,100,7159,DAYCARE,true
+admin79,this is a test description,7519,6955,DELUXE,true
+admin79,this is a test description,6237,6478,DELUXE,true
+admin79,this is a test description,9258,6424,DELUXE,true
+admin79,this is a test description,9008,6703,DELUXE,true
+admin79,this is a test description,6162,6410,DELUXE,true
+admin79,this is a test description,5549,5253,DELUXE,true
+admin79,this is a test description,9817,5808,DELUXE,true
+admin79,this is a test description,7005,6520,DELUXE,true
+admin79,this is a test description,6504,5840,DELUXE,true
+admin79,this is a test description,8139,5349,DELUXE,true
+admin79,My first project,400,1087,SUITE,true
+maryhannah,critical,100,6691,DAYCARE,true
+admin80,Room,1000,3001,DELUXE,false
+maryhannah,critical,100,3579,DAYCARE,true
+admin80,,1111,3002,TWIN,false
+maryhannah,critical,100,314,DAYCARE,true
+admin79,,9866737,666666662,TWIN,true
+yagmur,hasta,100,9009,TWIN,false
+maryhannah,critical,100,3063,DAYCARE,true
+admin80,,1000,3003,TWIN,false
+maryhannah,critical,100,4099,DAYCARE,true
+gulbahce,hastamiz ozel bakilmali,1,505,SUITE,true
+yagmur,,150,9318,DELUXE,true
+yagmur,,150,5626,DELUXE,true
+yagmur,,150,7006,DELUXE,true
+yagmur,,150,9369,DELUXE,true
+admin79,My first project,400,7983,SUITE,true
+yagmur,,150,479,DELUXE,true
+adminhanife,,180,198891,TWIN,true
+us08_admin_team87,klimali,30,9380361,TWIN,true
+team83admin,database denemesi hanife,123,11223894,TWIN,true
+adminhanife,,180,198889,TWIN,true
+maryhannah,critical,100,891,DAYCARE,true
+adminrecep,Sickness,555,1239,TWIN,true
+admin79,My first project,400,1397,SUITE,true
+admin79,My first project,400,3680,SUITE,true
+maryhannah,critical,100,3734,DAYCARE,true
+admin79,My first project,400,1509,SUITE,true
+maryhannah,critical,100,5576,DAYCARE,true
+admin79,My first project,400,4444,SUITE,true
+maryhannah,critical,100,9670,DAYCARE,true
+admin79,My first project,400,4445,SUITE,true
+adminrecep,,1,325234,TWIN,false
+adminrecep,,1,57475,TWIN,false
+maryhannah,critical,100,1559,DAYCARE,true
+admin79,My first project,400,4446,SUITE,true
+admin79,My first project,400,4447,SUITE,true
+admin79,My first project,400,4448,SUITE,true
+maryhannah,critical,100,8606,DAYCARE,true
+admin79,this is a test description,6967,6088,DELUXE,true
+admin79,this is a test description,6497,5313,DELUXE,true
+admin79,this is a test description,6345,6194,DELUXE,true
+admin79,this is a test description,7996,6617,DELUXE,true
+admin79,this is a test description,7237,6378,DELUXE,true
+admin79,this is a test description,8080,6864,DELUXE,true
+admin79,this is a test description,9024,6246,DELUXE,true
+admin79,this is a test description,8067,6592,DELUXE,true
+admin79,this is a test description,8364,5942,DELUXE,true
+admin79,My first project,400,5317,SUITE,true
+admin79,My first project,400,3999,SUITE,true
+admin79,My first project,400,3998,SUITE,true
+admin79,My first project,400,3997,SUITE,true
+admin79,My first project,400,3996,SUITE,true
+admin79,My first project,400,3995,SUITE,true
+team94admin,,1234,123,SUITE,true
+admin79,My first project,400,8909,SUITE,true
+team86admin,sfsdfds,156,1588,TWIN,true
+yagmur,Cok hasta,100,2946,DAYCARE,false
+team92admin,Kaliteli oda,100,61,PREMIUM_DELUXE,false
+team92admin,Kaliteli bir oda,200,6161,SUITE,false
+admin79,My first project,400,6325,SUITE,true
+team85admin,,2000,61424,DAYCARE,true
+admin79,this is a test description,8246,5449,DELUXE,true
+admin79,My first project,400,6699,SUITE,true
+admin79,this is a test description,9106,5824,DELUXE,true
+admin79,this is a test room description,5000,5678,TWIN,true
+admin79,this is a test room description,5000,5670,TWIN,true
+admin79,this is a test room description,5000,5770,TWIN,true
+admin79,this is a test room description,5000,5370,TWIN,true
+admin79,this is a test room description,5000,5270,TWIN,true
+admin79,this is a test room description,5000,5170,TWIN,true
+admin80,Suite 971 0914 Emery Mall, West Roxana, VA 50618-8104,2100,61213,PREMIUM_DELUXE,false
+admin80,Apt. 299 52230 Frami Ramp, Nikolausfort, MT 62575-3702,2453,30121,PREMIUM_DELUXE,true
+admin80,Apt. 272 590 Cassin Plains, Carrollmouth, TN 71816,1956,85308,PREMIUM_DELUXE,true
+admin80,Apt. 092 55236 Meghan Summit, Hilaryville, AR 25580,1939,86889,PREMIUM_DELUXE,true
+admin80,4890 Macejkovic Course, West Morganstad, ND 02665-6805,1270,80216,PREMIUM_DELUXE,true
+admin80,91206 Deja Loaf, Carrolberg, SD 12570-3999,2179,75022,PREMIUM_DELUXE,true
+admin80,Suite 986 525 Zachary Haven, South Keithhaven, OH 39669,1612,34073,PREMIUM_DELUXE,true
+admin80,Apt. 404 0081 Zboncak Corner, Carsonberg, ND 24392,1833,40711,PREMIUM_DELUXE,true
+adminteam93-10,This is a test room creation by Team93,213,3402,TWIN,true
+us08_admin_team87,klimali,30,2935207,TWIN,true
+team83admin,database denemesi hanife,123,11223896,TWIN,true
+adminhanife,,180,198892,TWIN,true
+team90admin,with TV,200,46673,TWIN,true
+us08_admin_team87,klimali,30,9107881,PREMIUM_DELUXE,true
+us08_admin_team87,klimali,30,1666372,PREMIUM_DELUXE,true
+admin79,This is a test room creation,500,1,TWIN,false
+team90admin,with TV,200,94192,TWIN,true
+team90admin,with TV,200,95295,TWIN,true
+team90admin,with TV,200,97290,TWIN,true
+admindiana,,89,1001,DAYCARE,true
+team90admin,with TV,200,62707,TWIN,true
+team90admin,with TV,200,95757,TWIN,true
+team90admin,with TV,200,91328,TWIN,true
+admindiana,,13,1003,TWIN,false
+admindiana,Lorem Ipsum is simply dummy text of the printing and typesetting.,3,130110,TWIN,false
+admindiana,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.nbnbnbnbnb,8,130119,TWIN,false
+team85admin,,2000,79126,DAYCARE,true
+admin79,this is a test room description,5000,98967,TWIN,true
+team85admin,,2000,169255,DAYCARE,true
+adminrecep,critical,3000,8081,DAYCARE,true
+team90admin,with TV,200,96333,TWIN,true
+team90admin,with TV,200,91671,TWIN,true
+admin,null,499,44567,DAYCARE,false
+team90admin,with TV,200,18948,TWIN,true
+adminhanife,,180,198895,TWIN,true
+adminhanife,,180,198893,TWIN,true
+funda88team,,500,123578,SUITE,false
+adminhanife,,180,198896,TWIN,true
+admindiana,,4,11612,TWIN,false
+admindiana,,0,19198,TWIN,false
+admin79,URGENT PATIENT,4444,8318,TWIN,true
+team90admin,with TV,200,57938,TWIN,true
+admindiana,nkvebv,34,58796,TWIN,false
+admindiana,,45,45653,TWIN,false
+admindiana,,67,787878,TWIN,false
+team90admin,with TV,200,92031,TWIN,true
+team90admin,with TV,200,57939,TWIN,true
+team90admin,with TV,200,22404,TWIN,true
+team90admin,with TV,200,55145,TWIN,true
+team90admin,with TV,200,85507,TWIN,true
+team90admin,with TV,200,82771,TWIN,true
+team90admin,with TV,200,83053,TWIN,true
+team90admin,with TV,200,43139,TWIN,true
+admindiana,,4,1000009,TWIN,false
+team90admin,with TV,200,67380,TWIN,true
+team90admin,with TV,200,67663,TWIN,true
+admin79,this is a test description,9434,6546,DELUXE,true
+team90admin,without TV,0,125486,SUITE,true
+admin79,this is a test description,8541,6935,DELUXE,true
+admin79,this is a test description,7215,6339,DELUXE,true
+team90admin,with TV,200,98767,TWIN,true
+team90admin,with TV,200,41233,TWIN,true
+team90admin,with TV,200,75319,TWIN,true
+team90admin,with TV,200,28601,TWIN,true
+team90admin,with TV,200,86332,TWIN,true
+team90admin,with TV,200,88996,TWIN,true
+team85admin,,2000,143129,DAYCARE,true
+admin79,this is a test room description,5000,98981,DELUXE,true
+admin79,My first project,400,8164,SUITE,true
+team90admin,string,0,111,TWIN,true
+admin79,this is a test room description,5000,5070,TWIN,true
+admin79,adasfcad,200,145,PREMIUM_DELUXE,true
+admin79,this is a test description,9441,5091,DELUXE,true
+admin79,My first project,400,5882,SUITE,true
+admin79,this is a test description,6622,6162,DELUXE,true
+admin79,this is a test description,6021,6140,DELUXE,true
+admin79,this is a test room description,5000,3070,TWIN,true
+admin79,this is a test room description,5000,1070,TWIN,true
+admin79,this is a test room description,5000,1066,TWIN,true
+admin79,this is a test room description,5000,1057,TWIN,true
+admin79,this is a test room description,5000,3057,TWIN,true
+admin79,this is a test room description,5000,3087,TWIN,true
+admin79,this is a test room description,5000,3089,TWIN,true
+admin80,235 Nick Manor, Daughertyville, TN 44003-1815,1257,87715,PREMIUM_DELUXE,true
+admin79,,100,14924,DAYCARE,true
+adminonur,normal,100,1000,TWIN,true
+admin79,this is a test description,5709,6379,DELUXE,false
+admin79,this is a test description,7885,6187,DELUXE,false
+admin79,this is a test room description,5000,30789,TWIN,true
+admin79,this is a test room description,5000,30788,TWIN,true
+admin79,this is a test room description,5000,30781,TWIN,true
+admin79,this is a test room description,5000,30780,TWIN,true
+team94admin,,12340,606,TWIN,false
+admin79,My first project,400,6019,SUITE,true
+admin79,this is a test room description,5000,30778,TWIN,true
+team85admin,göz,500,5000,TWIN,false
+admin79,My first project,400,7239,SUITE,true
+admin79,My first project,400,7502,SUITE,true
+admin79,My first project,400,9590,SUITE,true
+admin79,string,0,5609,TWIN,true
+admin79,this is a test room description,5000,30775,TWIN,true
+admin79,this is a test room description,5000,30774,TWIN,true
+admin79,this is a test room description,5000,30766,DELUXE,true
+admin79,this is a test room description,5000,30798,TWIN,true
+admin80,897 Wilbur Mountains, Jakubowskiton, NC 32470-3376,1972,20149,PREMIUM_DELUXE,true
+admin80,2223 Cherelle Vista, Andersonport, IL 73904-6335,1835,68501,PREMIUM_DELUXE,true
+admin80,Apt. 060 52367 Gutkowski Corners, West Freddiechester, PA 17965,2074,35056,PREMIUM_DELUXE,true
+admin80,95877 Alva Cove, South Booker, CA 90988-8010,1091,75818,PREMIUM_DELUXE,true
+admin80,Apt. 746 32601 Randy Ridge, Giannamouth, IN 14178,2295,65064,PREMIUM_DELUXE,true
+admin80,Suite 393 58803 Alonso Mission, Kassulkeview, NH 04816-3398,2454,46323,PREMIUM_DELUXE,true
+admin79,this is a test room description,5000,309087,TWIN,true
+adminceran,,100,3758,TWIN,true
+admin79,this is a test room description,5000,30700,TWIN,true
+admin80,81492 Konopelski Estate, Stromanborough, VT 99505,1280,40439,PREMIUM_DELUXE,true
+adminteam93-10,,2,1233,TWIN,true
+adminsz,,900,2345,TWIN,true
+us08_admin_team87,,1,11111,TWIN,true
+adminsz,,123,1223456,SUITE,true
+admincemile,Room,440,2022,SUITE,true
+team90admin,add one bed,150,1234,DELUXE,true
+team90admin,add one bed,150,1235,DELUXE,true
+team90admin,kgiygi,120,12345,TWIN,true
+adminsz,,1234,9564,TWIN,false
+adminhanife,,111,12,DAYCARE,true
+adminsz,,234,4243,TWIN,false
+team85admin,,2000,4569,DAYCARE,true
+team85admin,,1324,124668,TWIN,false
+team85admin,,2000,4560,DAYCARE,true
+team85admin,,2000,66848,DAYCARE,true
+team85admin,,2000,105551,DAYCARE,true
+team85admin,,2000,129736,DAYCARE,true
+adminteam93-10,This is a test room creation by Team93,438,182,TWIN,true
+adminteam93-10,This is a test room creation by Team93,167,9551,TWIN,true
+adminteam93-10,This is a test room creation by Team93,126,8240,TWIN,true
+adminteam93-10,This is a test room creation by Team93,251,8265,TWIN,true
+adminsz,,100,1230,TWIN,true
+adminteam93-10,This is a test room creation by Team93,597,6764,TWIN,true
+adminteam93-10,This is a test room creation by Team93,482,3355,TWIN,true
+adminhanife,,180,198890,TWIN,true
+adminteam93-10,This is another test make by Team93,623,58649,DELUXE,true
+adminteam93-10,This is a test room creation by Team93,473,7270,TWIN,true
+adminteam93-10,This is another test make by Team93,274,43358,DELUXE,true
+admin79,URGENT PATIENT,4444,6675,TWIN,true
+adminteam93-10,This is another test make by Team93,810,74825,DELUXE,false
+admin79,this is a test room description,5000,5111,TWIN,true
+team88admin,,550,1236,TWIN,true
+team90admin,Room with TV and Fridge,150,12123,SUITE,true
+team90admin,jinj,230,545152,DELUXE,true
+team91adminn,euro,250,711711711,TWIN,false
+adminsz,tv,456,13213,TWIN,false
+adminsz,,1000,444555,TWIN,false
+team90admin,with TV,120,14725,TWIN,true
+adminsz,,1000,667788,TWIN,false
+adminteam93-10,This is a test room creation by Team93,210,8941,TWIN,true
+us08_admin_team87,klimali,30,4498686,DELUXE,true
+adminteam93-10,This is a test room creation by Team93,561,5543,TWIN,true
+team85admin,,2000,180861,DAYCARE,true
+admin79,My first project,400,9404,SUITE,true
+team90admin,with TV,200,51668,TWIN,true
+team90admin,with TV,120,14726,TWIN,true
+team90admin,with TV,120,14727,TWIN,true
+us08_admin_team87,klimali,30,8746904,PREMIUM_DELUXE,true
+funda88team,,290,491,PREMIUM_DELUXE,true
+adminteam93-10,This is a test room creation by Team93,687,1447,TWIN,true
+team85admin,,2000,156043,DAYCARE,true
+team85admin,,2000,187519,DAYCARE,true
+admindiana,lorem,13,130109,TWIN,false
+team83admin,olusturma,105,756788889,TWIN,false
+admindiana,Lorem Ipsum is simply dummy text of the printing and typesetting industry.,5,130111,TWIN,false
+adminteam93-10,This is a test room creation by Team93,883,3689,TWIN,true
+adminteam93-10,This is a test room creation by Team93,117,2841,TWIN,true
+team90admin,with TV,200,15154,TWIN,true
+adminteam93-10,This is a test room creation by Team93,152,3131,TWIN,true
+admindiana,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ,9,130113,TWIN,false
+team85admin,,2000,196938,DAYCARE,true
+admindiana,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.rtyuh1,5,13011,TWIN,false
+team90admin,with TV,200,15149,TWIN,true
+team90admin,with TV,200,15150,TWIN,true
+team90admin,with TV,200,15151,TWIN,true
+team90admin,with TV,200,15152,TWIN,true
+admindiana,,5,12551,TWIN,false
+team90admin,with TV,200,15153,TWIN,true
+team90admin,with TV,200,84140,TWIN,true
+team90admin,with TV,200,33146,TWIN,true
+team90admin,with TV,200,96410,TWIN,true
+admin79,URGENT PATIENT,4444,8169,TWIN,true
+adminsz,,100,12230,TWIN,true
+adminsz,locked window,1000,33221,TWIN,true
+adminsz,locked window,1000,34221,TWIN,true
+team90admin,Room with TV and Fridge,150,12127,SUITE,true
+team90admin,Room with TV and Fridge,150,12124,SUITE,true
+adminsz,,100,14430,TWIN,true
+team85admin,,2000,60105,DAYCARE,true
+adminsz,add sofabed,100,15430,TWIN,true
+adminsz,add sofabed,100,16430,TWIN,true
+admin79,this is a test room description,5000,98980,TWIN,true
+adminsz,,300,6788,TWIN,false
+adminteam93-10,This is another test make by Team 93,571,2322,DELUXE,false
+adminsz,add sofabed,100,16490,TWIN,true
+team90admin,with TV,200,49057,TWIN,true
+adminsz,add sofabed,100,16890,TWIN,true
+adminsz,add sofabed,100,17890,TWIN,true
+adminhanife,,180,198894,TWIN,true
+admindiana,,9,1001000,TWIN,false
+team90admin,with TV,200,81978,TWIN,true
+adminhanife,,180,198897,TWIN,true
+adminsz,tv,445,132135,DELUXE,false
+adminsz,add sofabed,100,17867,DAYCARE,true
+admin79,My first project,400,8816,SUITE,true
+admin79,My first project,400,7019,SUITE,true
+adminhanife,,180,198899,TWIN,true
+admin79,URGENT PATIENT,4444,9891,TWIN,true
+admin79,this is a test room description,5000,5446,TWIN,true
+team90admin,with TV,200,96528,TWIN,true
+team83admin,database denemesi hanife,123,11238970,TWIN,true
+admin79,this is a test room description,5000,6868,DELUXE,true
+adminhanife,,180,2588118,TWIN,true
+admin79,URGENT PATIENT,4444,6321,TWIN,true
+adminhanife,,180,198089,TWIN,true
+funda88team,,416,280,PREMIUM_DELUXE,true
+admindiana,Nemo assumenda est non unde quo. Vel mollitia incidunt dolorem. Tempora dolorem et ipsa porro. Totam non eius fuga perferendis quas quia. Iste eveniet quo recusandae. Commodi molestias esse sint. Quo tempora et totam et rem et.,0,17895,DELUXE,false
+adminhanife,,180,3141024,TWIN,true
+team90admin,with TV,200,49184,TWIN,true
+adminhanife,,180,3839031,TWIN,true
+adminsz,,215,3456,TWIN,true
+team90admin,with TV,200,78555,TWIN,true
+team90admin,with TV,200,93519,TWIN,true
+adminhanife,,180,3073991,TWIN,true
+team85admin,byTeam85,123123,123110,DELUXE,true
+team85admin,byTeam85,123123,123129,TWIN,true
+team90admin,with TV,200,42037,TWIN,true
+adminhanife,,180,3123168,TWIN,true
+team90admin,with TV,200,89941,TWIN,true
+team90admin,with TV,200,87586,TWIN,true
+team90admin,with TV,200,50730,TWIN,true
+team90admin,with TV,200,67426,TWIN,true
+team90admin,with TV,200,36547,TWIN,true
+team90admin,with TV,200,21060,TWIN,true
+team90admin,with TV,200,58068,TWIN,true
+team90admin,with TV,200,32958,TWIN,true
+admin79,this is a test description,9379,5664,DELUXE,true
+team90admin,with TV,200,93996,TWIN,true
+team83admin,olusturma,105,756788880,SUITE,true
+admin79,The new patients reservations,1101,234408,TWIN,true
+admin79,My first project,400,7610,SUITE,true
+adminrecep,without TV,500,15629,DELUXE,true
+adminsz,,300,5643,TWIN,false
+adminhanife,,180,3271393,TWIN,true
+adminhanife,,180,2828582,TWIN,true
+team90admin,with TV,200,22356,TWIN,true
+team88admin,hj,500,2000,PREMIUM_DELUXE,true
+team88admin,,200,62,TWIN,true
+team88admin,,200,623,TWIN,true
+admin,with TVyenilemeyenileme,400,157946,DELUXE,false
+funda88team,,300,3505,PREMIUM_DELUXE,true
+team85admin,string,0,1231239,TWIN,true
+team83admin,database denemesi hanife,123,11238971,TWIN,true
+funda88team,,300,3506,PREMIUM_DELUXE,true
+team88admin,,200,5633,TWIN,true
+team90admin,with TV,200,86654,TWIN,true
+admin79,URGENT PATIENT,4444,7753,TWIN,true
+admin79,URGENT PATIENT,4444,9676,TWIN,true
+admin79,URGENT PATIENT,4444,8278,TWIN,true
+team85admin,byTeam85,123123,123124,DELUXE,false
+team85admin,byTeam85,123123,123125,DAYCARE,false
+team85admin,byTeam85,123123,123126,SUITE,false
+team85admin,byTeam85,123123,123127,TWIN,false
+team85admin,byTeam85,123123,123128,TWIN,false
+admin79,this is a test description,9693,5771,DELUXE,true
+admin79,this is a test description,5115,6729,DELUXE,true
+admin79,this is a test description,9865,6292,DELUXE,true
+admin79,this is a test description,8934,5843,DELUXE,true
+admin79,this is a test description,7928,6234,DELUXE,true
+admin79,URGENT PATIENT,4444,6910,TWIN,true
+admin79,URGENT PATIENT,4444,8628,TWIN,true
+admin79,URGENT PATIENT,4444,7080,TWIN,true
+admin79,URGENT PATIENT,4444,6114,TWIN,true
+admin79,this is a test description,7923,6027,DELUXE,true
+admin79,URGENT PATIENT,4444,5860,TWIN,true
+admin79,URGENT PATIENT,4444,8522,TWIN,true
+admin79,URGENT PATIENT,4444,9014,TWIN,true
+admin79,URGENT PATIENT,4444,9785,TWIN,true
+admindiana,abc,4,15356,PREMIUM_DELUXE,false
+admindiana,Tenetur et qui laudantium voluptatem vel aut. ,5,15341,DELUXE,false
+admin79,URGENT PATIENT,449,8213,TWIN,true
+admin79,twin room,35,639,TWIN,false
+admin79,URGENT PATIENT,4444,7041,TWIN,true
+admin79,URGENT PATIENT,4444,6535,TWIN,false
+team83admin,string,0,0,TWIN,true
+team83admin,string,78945,78945,TWIN,true
+team83admin,string,12356,12356,TWIN,true
+team83admin,string,5000,123000,TWIN,true
+team83admin,string,5000,123099,TWIN,true
+team83admin,Team88,5000,123098,TWIN,true
+team83admin,Team88,5000,123097,TWIN,true
+team83admin,Team887,500,123096,TWIN,true
+team83admin,Team887,500,1212,TWIN,true
+team83admin,King residence,5000,154998,TWIN,true
+team83admin,King residence,5000,21642,TWIN,true
+team83admin,King residence,5000,19925,TWIN,true
+team83admin,King residence,5000,21323,TWIN,true
+admindiana,In fugit ut. Vel recusandae suscipit asperiores molestiae aut quae cum. Corrupti minus illum. Nostrum repudiandae placeat commodi ullam maxime. Velit corrupti eos non et hic. Ullam expedita ex et odit.,547,17157,TWIN,false
+admindiana,Natus sit qui. Iusto illo autem qui voluptates modi.,677,19808,SUITE,false
+admindiana,,811,1534117086,TWIN,false
+admindiana,,123,16990,TWIN,true
+admindiana,,397,12522,TWIN,false
+admindiana,,802,17202,TWIN,false
+admindiana,,752,15606,TWIN,false
+admindiana,In nemo illo facilis et optio. Magnam id aliquam voluptatem. Voluptatem voluptas a sit laborum accusamus aut. Numquam velit incidunt voluptatum a corrupti ad odit. Sed doloremque rerum aut qui nobis.,949,17811,TWIN,false
+admindiana,,527,11432,TWIN,false
+admindiana,,503,19773,TWIN,false
+admindiana,,216,13983,TWIN,false
+admindiana,,322,14234,TWIN,false
+admindiana,,578,11115,TWIN,false
+admindiana,,548,19410,TWIN,false
+team83admin,1231,1312,131,TWIN,true
+team83admin,Lead Response Officer,783,336,DELUXE,true
+admindiana,Earum consectetur eum nam at praesentium. Et aliquid unde labore repellendus quo ea aliquid. Adipisci consequatur qui.,572,14401,DELUXE,false
+admindiana,Eum vel omnis illum explicabo cumque sed optio. Dolorem illo odit rerum et consequatur dolorem. Molestiae fuga sed necessitatibus dolorem. Mollitia cumque fugiat. Labore molestias molestiae tempora eos.,125,13663,SUITE,false
+admindiana,Facilis alias ex blanditiis ratione. Tempora et similique iusto. Ex est quia ut corporis. Nihil recusandae eum cumque. Et ea et dicta veniam optio. Repellendus officia eos suscipit animi sapiente unde nihil.,569,10022,DAYCARE,false
+admindiana,Dolorem et doloremque maiores facere aut necessitatibus adipisci.,305,14400,PREMIUM_DELUXE,false
+admindiana,Alias unde qui nam ab.,13,11640,DAYCARE,false
+admindiana,,568,16902,TWIN,false
+admindiana,,523,13300,TWIN,false
+admindiana,,994,19862,TWIN,false
+admindiana,,103,13786,TWIN,false
+admindiana,,821,16716,TWIN,false
+admindiana,,370,18003,TWIN,false
+admindiana,,646,15311,TWIN,false
+admindiana,,467,12468,TWIN,false
+admindiana,,45,979797979,TWIN,false
+admindiana,,840,13004,TWIN,false
+admindiana,,885,19744,TWIN,false
+admindiana,,935,13591,TWIN,false
+admindiana,,506,10376,TWIN,false
+admindiana,,569,10588,TWIN,false
+admindiana,,421,19031,TWIN,false
+admindiana,,534,13510,TWIN,false
+admindiana,,166,19772,TWIN,false
+admindiana,,806,14897,TWIN,false
+admindiana,,589,15475,TWIN,false
+admindiana,,282,14348,TWIN,false
+admindiana,,727,18549,TWIN,false
+admindiana,,971,19000,TWIN,false
+admindiana,,445,15155,TWIN,false
+admindiana,,761,18313,TWIN,false
+admindiana,,424,14921,TWIN,false
+admindiana,,0,10084,TWIN,false
+admindiana,,428,16277,TWIN,false
+admindiana,,607,19683,TWIN,false
+admindiana,,480,16310,TWIN,false
+admindiana,,89,678678,TWIN,false
+admindiana,,19,19191919,TWIN,false
+admindiana,Lorem Ipsum,235,13012567,TWIN,false
+admindiana,Lorem Ipsum 2,2122,130112122,TWIN,false
+admindiana,,532,15627,TWIN,false
+admindiana,,140,15800,TWIN,false
+admindiana,,619,18920,TWIN,false
+admindiana,,238,17425,TWIN,false
+admindiana,,740,15047,TWIN,false
+admindiana,,576,11848,TWIN,false
+admindiana,,842,14674,TWIN,false
+admindiana,,589,11058,TWIN,false
+admindiana,,140,14962,TWIN,false
+admindiana,Ut omnis sint totam. Fugiat tempora ea dolores.,393,11548,DELUXE,false
+adminhanife,,180,3779997,TWIN,true
+admindiana,,245,1534119885,TWIN,false
+admindiana,,852,14825,TWIN,true
+admindiana,,65,15050,TWIN,false
+admindiana,,622,16950,TWIN,false
+admindiana,,315,12456,TWIN,false
+admindiana,Esse exercitationem eum id occaecati similique magni unde. Tempora voluptatem totam aspernatur qui. Facere commodi ut aut reiciendis. Qui inventore quasi iste ab. Aut facilis iusto quo sint voluptatibus dolor sed.,528,10189,TWIN,false
+admindiana,,376,10042,TWIN,false
+admindiana,,383,10151,TWIN,false
+adminhanife,,180,2623115,TWIN,true
+adminhanife,,180,3398117,TWIN,true
+admindiana,Animi ducimus dicta.,416,10325,SUITE,false
+adminhanife,,180,2945141,TWIN,true
+adminhanife,,180,3080617,TWIN,true
+team91adminn,,500,711711,TWIN,false
+adminhanife,,180,2828063,TWIN,true
+team91adminn,,500,711781,TWIN,false
+team90admin,with TV,200,86322,TWIN,true
+admin79,this is a test description,8466,6563,DELUXE,true
+admin79,this is a test description,5020,5730,DELUXE,true
+admin79,this is a test description,7028,6829,DELUXE,true
+admin79,this is a test description,7888,6509,DELUXE,true
+team83admin,King residence,5000,21589,TWIN,true
+team83admin,King residence,6000,21767,TWIN,true
+team83admin,King residence,6000,20735,TWIN,true
+team83admin,King residence,6000,20400,TWIN,true
+team83admin,King residence,6000,20575,TWIN,true
+adminsz,,9,7,TWIN,false
+team83admin,King residence,6000,20774,TWIN,true
+adminsz,,300,87655,TWIN,false
+admindiana,,270,16555,TWIN,false
+admin79,Lorem Ipsum Family Room,199,391215514,SUITE,false
+adminsz,,0,9,TWIN,false
+team94admin,medunna deneme,500,56985,TWIN,true
+team94admin,medunna deneme,500,56955,TWIN,true
+team94admin,medunna deneme,500,58965,TWIN,false
+team94admin,medunna deneme,500,58961,TWIN,false
+team94admin,medunna deneme,500,72573,TWIN,false
+team94admin,medunna deneme,500,95873,TWIN,false
+team94admin,,6,39,TWIN,false
+admindiana,Lorem Ipsum Good Luck,10000,52025,PREMIUM_DELUXE,true
+admindiana,Lorem Ipsum Crowded,100,34440,SUITE,true
+admindiana,Lorem Ipsum Dear,19,888420,TWIN,true
+admin79,Lorem Ipsum Family Room,199,391215515,SUITE,false
+admin79,Lorem Ipsum Stable Patient,118,551219314,DAYCARE,true
+admin79,Lorem Ipsum Surgery Patient,57,121559317,DELUXE,false
+admin79,Lorem Ipsum Lovely Room,142,391215517,SUITE,true
+admindiana,,6,7897979,TWIN,false
+admin79,Lorem Ipsum Lovely Room,142,391215534,SUITE,true
+admin79,Lorem Ipsum Lovely Room,142,391215533,SUITE,true
+admin79,Lorem Ipsum Stable Patient,118,551219313,DAYCARE,true
+admin79,Lorem Ipsum Surgery Patient,57,121559319,DELUXE,false
+admin79,Lorem Ipsum Lovely Room,142,391215532,SUITE,true
+admin79,Lorem Ipsum Lovely Room,142,391215531,SUITE,true
+admin79,Lorem Ipsum Family Room,199,391215513,SUITE,false
+admin79,Lorem Ipsum Surgery Patient,57,121559313,DELUXE,false
+admindiana,Kardiyoloji Servisi,118,500002,DAYCARE,true
+admindiana,Cardiology,175,3000152,PREMIUM_DELUXE,true
+team83admin,database denemesi hanife,123,112235,TWIN,true
+team83admin,database denemesi hanife,123,112237,TWIN,true
+team83admin,database denemesi hanife,123,112238,TWIN,true
+admindiana,Pediatrik Dermatoloji,57,500003,DELUXE,false
+team83admin,database denemesi hanife,123,112239,TWIN,true
+team83admin,database denemesi hanife,123,112230,TWIN,true
+admin79,this is a test description,9890,5138,DELUXE,true
+adminhanife,,180,3150507,TWIN,true
+adminrecep,,100,2961,DAYCARE,false
+adminhanife,,180,3054599,TWIN,true
+adminsz,,300,56,TWIN,false
+adminsz,,445,66666,PREMIUM_DELUXE,true
+adminsz,,54564,-678,TWIN,false
+adminsz,94,43434,-1423,TWIN,false
+adminsz,- - -,333,-6,TWIN,false
+adminteam93-10,This is a test room creation by Team93,482,6210,TWIN,true
+adminhanife,,180,2695013,TWIN,true
+adminhanife,,180,2960879,TWIN,true
+admin79,this is a test description,6401,5542,DELUXE,true
+admin79,this is a test description,7172,5361,DELUXE,true
+admin79,this is a test description,9255,5126,DELUXE,true
+team84admin,,174,723014138,TWIN,false
+adminhanife,,180,2917824,TWIN,true
+adminhanife,,180,3503243,TWIN,true
+admindiana,Tadilat Tamamlandi,250,500001,SUITE,false
+adminhanife,,180,3351468,TWIN,true
+admindiana,Nam unde ipsam quia facilis occaecati voluptate sed. Quis officiis ipsa voluptates at. Et praesentium aliquid possimus et. Modi cupiditate consequatur voluptas velit in. Voluptatem eligendi et laborum dolore minus id.,307,19890,DELUXE,false
+adminhanife,,180,2624167,TWIN,true
+admindiana,,316,1534112812,TWIN,false
+admindiana,,520,12538,TWIN,true
+admindiana,,21,17375,TWIN,false
+admindiana,,244,12094,TWIN,false
+admindiana,,991,13758,TWIN,false
+admindiana,Eum laborum consequuntur pariatur consequatur. Molestias ex animi nam. Explicabo ipsum rerum. Sit labore qui. Et nesciunt eligendi quia est quos. Minima laudantium et quod ipsam. Qui ea est placeat illo culpa dolor id.,79,11616,TWIN,false
+admindiana,,165,14029,TWIN,false
+admindiana,,106,15725,TWIN,false
+admindiana,,534,17773,TWIN,false
+adminhanife,,180,2681289,TWIN,true
+adminhanife,put denemesi,200,112245,SUITE,true
+adminteam93-10,This is a test room creation by Team93,536,2170,TWIN,true
+adminteam93-10,This is a test room creation by Team93,214,4804,TWIN,false
+adminteam93-10,This is a test room creation by Team93,476,8706,TWIN,true
+adminteam93-10,This is a test room creation by Team93,6,5806,TWIN,true
+team83admin,database denemesi hanife,123,112231,TWIN,true
+admin79,this is a test description,6173,5668,DELUXE,true
+admin79,this is a test description,7357,5520,DELUXE,true
+adminteam93-10,This is a test room creation by Team93,45,6616,TWIN,true
+admin79,this is a test room,4000,6714,DELUXE,true
+adminhanife,yeni,300,112244,TWIN,true
+admin79,new created room,4000,5887,DELUXE,true
+admin79,this is a test description,5666,6543,DELUXE,true
+adminteam93-10,This is a test room creation by Team93,379,5594,TWIN,true
+adminhanife,delete denemessi,100,17784,DELUXE,true
+team83admin,delete denemesi,142,177770,SUITE,true
+team83admin,delete denemesi,142,1777711,SUITE,true
+team83admin,delete denemesi,142,1777712,SUITE,true
+team83admin,delete denemesi,142,177770000,SUITE,true
+team83admin,delete denemesi,142,177770010,SUITE,true
+team83admin,delete denemesi,142,177770019,SUITE,true
+team83admin,delete denemesi,142,177770018,SUITE,true
+team83admin,delete denemesi,142,177770017,SUITE,true
+admin79,this is a test description,8091,5708,DELUXE,true
+admin79,new created room,4000,5693,DELUXE,true
+team83admin,database denemesi hanife,123,112232,TWIN,true
+team83admin,database denemesi hanife,123,1122333,TWIN,true
+team83admin,olusturma,105,756788888,TWIN,false
+adminteam93-10,This is a test room creation by Team93,653,6689,TWIN,true
+admin79,this is a test description,6541,5844,DELUXE,true

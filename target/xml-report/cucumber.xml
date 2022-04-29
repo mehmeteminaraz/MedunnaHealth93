@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="145.561">
+    <testcase classname="US016  Admin,yatan hastalar için yeni oda olusturabilir" name="Hastalar icin yeni oda olusturma" time="13.9">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+Given Kullanici giris sayfasina gider.......................................passed
+Given Kullanici yonetici olarak oturum acar.................................passed
+Given Kullanici Baglantilarim altindaki Oda cta'sini tiklar.................passed
+Given Kullanici Yeni bir oda olustur'u tiklar...............................passed
+Given Kullanici oda numarasi alanini bos birakir............................passed
+Given Kullanici Oda Tipi acilir menusunde TWIN'i secer......................passed
+Given Kullanici Durum onay kutusuna tiklayarak mevcut durumu ayarlar........passed
+Given Kullanici fiyat alanini bos birakir...................................passed
+Given Kullanici aciklama girer..............................................passed
+Given Kullanici  olusturulma tarihini girer.................................passed
+Given Kullanici  Kaydet dugmesine tiklarr...................................passed
+Given This field is required mesaji, gerekli alan metin kutusunun altinda gorunur.passed
+Then Giris yapilan hesaptan signOut yapar...................................passed
+Then Web uygulamasindan cikis yapar.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="US016  Admin,yatan hastalar için yeni oda olusturabilir" name="Admin hastalar için oda görüntüleyebilir." time="13.531">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+Given Kullanici giris sayfasina gider.......................................passed
+Given Kullanici yonetici olarak oturum acar.................................passed
+Given Kullanici Baglantilarim altindaki Oda cta'sini tiklar.................passed
+Given Kullanici Yeni bir oda olustur'u tiklar...............................passed
+Given Kullanici Verilen oda numarasini girer................................passed
+Given Kullanici Oda Tipi acilir menusunde TWIN'i secer......................passed
+Given Kullanici Durum onay kutusuna tiklayarak mevcut durumu ayarlar........passed
+And Kullanici fiyat girer...................................................passed
+Given Kullanici aciklama girer..............................................passed
+Given Kullanici  olusturulma tarihini girer.................................passed
+Given Kullanici  Kaydet dugmesine tiklar....................................passed
+Then Kullanici , odanin basariyla olusturuldugunu dogrular..................passed
+Then Giris yapilan hesaptan signOut yapar...................................passed
+Then Web uygulamasindan cikis yapar.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="US016  Admin,yatan hastalar için yeni oda olusturabilir" name="Admin hasta icin oda guncelleyebilir ve silebilir." time="23.618">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+Given Kullanici giris sayfasina gider.......................................passed
+Given Kullanici yonetici olarak oturum acar.................................passed
+Given Kullanici Baglantilarim altindaki Oda cta'sini tiklar.................passed
+Given Kullanici Yeni bir oda olustur'u tiklar...............................passed
+Given Kullanici Verilen oda numarasini girer................................passed
+And Kullanici fiyat girer...................................................passed
+Given Kullanici aciklama girer..............................................passed
+Given Kullanici  olusturulma tarihini girer.................................passed
+Given Kullanici  Kaydet dugmesine tiklar....................................passed
+Given Kullanici son sayfa dugmesine tiklar..................................passed
+When Kullanici Duzenle dugmesine tiklar.....................................passed
+And Kullanici oda numarasını gunceller......................................passed
+And Kullanici oda tipi olarak DELUXE'u secer................................passed
+And Kullanici fiyati gunceller..............................................passed
+And Kullanici aciklamayi gunceller..........................................passed
+Given Kullanici  Kaydet dugmesine tiklar....................................passed
+And Kullanici sil dugmesine tiklar..........................................passed
+And Kullanici acilir mesaji silmeyi onaylar.................................passed
+Then Kullanici , odanın basariyla silindigini dogrular......................passed
+Then Giris yapilan hesaptan signOut yapar...................................passed
+Then Web uygulamasindan cikis yapar.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="US21 Staff hastalar icin randevulari gorur" name="TC01 Randevu güncelleme" time="37.647">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+And Siteye gidildigini dogrular.............................................passed
+Then Web Sayfasinda bulunan person ikonuna tiklar...........................passed
+Then Sign in sekmesine tiklar...............................................passed
+Then Username Box'a gecerli "staff_zeynep" girer............................passed
+Then Password Box'a gecerli "New2022." girer................................passed
+Then Sign in butonuna tiklar................................................passed
+Then Ust menudeki MY_PAGES menusune tiklanir................................passed
+Then Menunun altinda cikan Search Patient item'ina tiklanir.................passed
+Then Patients basligi altinda hasta listesi gorunur.........................passed
+And Patients basligi altindaki Patient SSN textbox'una SSN numarasi girilir..passed
+Then Staff Hasta bilgi satirindaki Show Appointments butonuna tiklanir......passed
+And Hasta randevu bilgileri goruntulenir....................................passed
+Then Hasta bilgi satirindaki Edit butonuna tiklanir.........................passed
+And Start DateTime alanindan tarih secilir..................................passed
+And End DateTime alanindan tarih secilir....................................passed
+And Status alaninda statu durumu secilir....................................passed
+And Anamnesis alanina veri girilir..........................................passed
+And Treatment alanina veri girilir..........................................passed
+And Diagnosis alanina veri girilir..........................................passed
+And Prescription alanina veri girilir.......................................passed
+And Appointment Description alanina veri girilir............................passed
+And Physician alanindan doktor secimi yapilir...............................passed
+And Hasta Appointment formundaki Save butonuna tiklanir.....................passed
+And Hasta Appointment bilgileri guncellenir.................................passed
+Then Kullanici sayfa sag ustte isim ve soyisminin yer aldigi yaziya tiklar..passed
+Then Kullanici acilan menuden signOut linkine tiklar........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="US22 Hasta Test sonuclari (Staff)" name="TC1 SSN id ile arama" time="16.11">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+And Siteye gidildigini dogrular.............................................passed
+Then Web Sayfasinda bulunan person ikonuna tiklar...........................passed
+Then Sign in sekmesine tiklar...............................................passed
+Then Username Box'a gecerli "staff_zeynep" girer............................passed
+Then Password Box'a gecerli "New2022." girer................................passed
+Then Sign in butonuna tiklar................................................passed
+Then Ust menudeki MY_PAGES menusune tiklanir................................passed
+Then Menunun altinda cikan Search Patient item'ina tiklanir.................passed
+And Patients basligi altindaki Patient SSN textbox'una SSN numarasi girilir..passed
+And Patient sayfasinda ilgili hasta bilgileri goruntulenir..................passed
+Then Kullanici sayfa sag ustte isim ve soyisminin yer aldigi yaziya tiklar..passed
+Then Kullanici acilan menuden signOut linkine tiklar........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="US22 Hasta Test sonuclari (Staff)" name="TC02 Test Sonuclarini Goruntuleme ve Guncelleme" time="39.938">
+        <system-out><![CDATA[Given Kullanici siteye gider "medunnaUrl"...................................passed
+And Siteye gidildigini dogrular.............................................passed
+Then Web Sayfasinda bulunan person ikonuna tiklar...........................passed
+Then Sign in sekmesine tiklar...............................................passed
+Then Username Box'a gecerli "staff_zeynep" girer............................passed
+Then Password Box'a gecerli "New2022." girer................................passed
+Then SignIn butonuna tiklar.................................................passed
+Then Ust menudeki MY_PAGES menusune tiklanir................................passed
+Then Menunun altinda cikan Search Patient item'ina tiklanir.................passed
+Then Patients basligi altinda hasta listesi gorunur.........................passed
+And Patients basligi altindaki Patient SSN textbox'una SSN numarasi girilir..passed
+Then Hasta bilgi satirindaki Show Appointments butonuna tiklar..............passed
+And Hasta randevu bilgileri goruntulenir....................................passed
+Then Hasta bilgi satirindaki Show Tests butonuna tiklanir...................passed
+Then Tests basligi goruntulenir.............................................passed
+Then Tests sayfasindaki View Results butonuna tiklanir......................passed
+And Test Results sayfasi goruntulenir.......................................passed
+Then Test Results sayfasindaki Edit butonuna tiklanir.......................passed
+Then Create or edit a Test Result basligi goruntulenir......................passed
+And Test Result formunda Result textboxuna veri girilir.....................passed
+And Test Result formunda Description textboxuna veri girilir................passed
+And Test Result sayfasinda Save butonuna tiklanir...........................passed
+And Test Result'in guncellendigi goruntulenir...............................passed
+Then Kullanici sayfa sag ustte isim ve soyisminin yer aldigi yaziya tiklar..passed
+Then Kullanici acilan menuden signOut linkine tiklar........................passed
+]]></system-out>
+    </testcase>
+</testsuite>

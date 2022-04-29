@@ -1,0 +1,1 @@
+RoomCreateUpdateDelete{description='this is a test description', id=, price=6541, roomNumber=5844, roomType='DELUXE', status=true}
