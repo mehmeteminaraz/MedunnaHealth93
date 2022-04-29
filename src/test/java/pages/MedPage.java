@@ -14,8 +14,8 @@ public class MedPage {
 
 //------------------- Kubra--------------------------
 
-    @FindBy(xpath = "//input[@name='ssn']")
-    public WebElement createANewUserSayfasıSSNTextBox;
+  //  @FindBy(xpath = "//input[@name='ssn']")
+  //   public WebElement createANewUserSayfasıSSNTextBox;
     //------------------------------------------
     //mainpage>KullaniciIkonu>signInLinki/AdministrationLinki
     @FindBy(xpath ="//*[@id=\"admin-menu\"]/a/span")
