@@ -176,7 +176,6 @@
 
                         <include>**/runners/*TestRunner*.java</include>
 
-                        <include>**/bank.com.runners/*TestRunner*.java</include>
 
                     </includes>
                     <testFailureIgnore>true</testFailureIgnore>
