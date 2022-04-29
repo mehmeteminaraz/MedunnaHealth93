@@ -3201,7 +3201,7 @@ public class RegistrationStepDefinition {
     //_________________________________Sezemeyen____________________________________________//
 
     @Given("Items&Titles menusunden Messages Item'a tiklar.")
-    public void ıtems_titles_menusunden_messages_ıtem_a_tiklar() {
+    public void items_titles_menusunden_messages_item_a_tiklar() {
         if (mpage.itemsTitlesMessages.isDisplayed()) {
             mpage.itemsTitlesMessages.click();
         } else {
@@ -3212,7 +3212,7 @@ public class RegistrationStepDefinition {
     }
 
     @Then("Items&Titles menusunden Messages Item'a tiklar")
-    public void ıtemsTitlesMenusundenMessagesItemATiklar() {
+    public void itemsTitlesMenusundenMessagesItemATiklar() {
         mpage.itemsTitlesMessages.click();
     }
 
@@ -3283,7 +3283,7 @@ public class RegistrationStepDefinition {
         Driver.clickWithJS(mpage.CreateOrEditAMessageSaveButton);
     }
     @Given("Admin Create or edit a Message sayfasindaki ID butonuna basar.")
-    public void admin_create_or_edit_a_message_sayfasindaki_ıd_butonuna_basar() {
+    public void admin_create_or_edit_a_message_sayfasindaki_id_butonuna_basar() {
         Driver.wait1(3);
         mpage.messageID.click();
     }
@@ -3347,7 +3347,7 @@ public class RegistrationStepDefinition {
     //========================Sezen======================================
 
     @Given("Items&Titles menusunden Country Item'a tiklar.")
-    public void ıtems_titles_menusunden_country_ıtem_a_tiklar() {
+    public void items_titles_menusunden_country_item_a_tiklar() {
         mpage.adminItemsTitlesCountryElementi.click();
     }
     @Given("Countries sayfasinda oldugunu dogrular.")
@@ -3402,11 +3402,11 @@ public class RegistrationStepDefinition {
 
     }
 
-    @Given("admin Items&Titles menusune tiklar.")
-    public void admin_ıtems_titles_menusune_tiklar() {
-        Driver.wait(3);
-        mpage.adminItemsTitlesElementi.click();
-    }
+ //  @Given("admin Items&Titles menusune tiklar.")
+ //  public void admin_ıtems_titles_menusune_tiklar() {
+ //      Driver.wait(3);
+ //      mpage.adminItemsTitlesElementi.click();
+ //  }
 
     @Given("Silmek istedigi country'i secer.")
     public void silmek_istedigi_country_i_secer() {
